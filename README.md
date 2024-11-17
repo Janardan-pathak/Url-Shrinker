@@ -1,4 +1,3 @@
-````markdown
 # 🔗 URL Shortener
 
 A **GUI-based URL Shortener** application built using Python and Tkinter. This tool allows users to convert long URLs into shorter, more manageable links using the TinyURL API.
@@ -56,4 +55,3 @@ A **GUI-based URL Shortener** application built using Python and Tkinter. This t
 ## ❤️ About
 
 This project is built with love and aims to simplify URL shortening. Why type out long URLs when you can shrink them?
-````
