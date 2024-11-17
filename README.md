@@ -18,10 +18,10 @@ A **GUI-based URL Shortener** application built using Python and Tkinter. This t
 
 1. Clone or download the repository.
 2. Install the required library:
+
    ```bash
    pip install requests
    ```
-````
 
 3. Run the script:
    ```bash
@@ -56,3 +56,4 @@ A **GUI-based URL Shortener** application built using Python and Tkinter. This t
 ## ❤️ About
 
 This project is built with love and aims to simplify URL shortening. Why type out long URLs when you can shrink them?
+````
