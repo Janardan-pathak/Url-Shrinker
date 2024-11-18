@@ -35,8 +35,8 @@ A **GUI-based URL Shortener** application built using Python and Tkinter. This t
 
 ## 📂 Project Structure
 
-- **`url_shortener.py`**: Main Python script for the application.
-- **`screenshots/`**: Contains screenshots of the application for reference.
+- **`bin/url_shortener.py`**: Main Python script for the application.
+- **`Images/`**: Contains screenshots of the application for reference.
 
 ---
 
